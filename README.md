@@ -1,2 +1,2 @@
-Hello world by python
-hari ini belajar git gud
+hello world minecraft
+apa kabar
